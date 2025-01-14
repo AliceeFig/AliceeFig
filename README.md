@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Alice
 
 
-<h1 align="left">- Esudante de Análise e Desenvolvimento de Sistemas</h1>
+<h1 color="purple" align="left">- Esudante de Análise e Desenvolvimento de Sistemas</h1>
 <h1 align="left">- she/her</h1>
 <img align="right" alt="" height="190px" src="./src/study.gif">
   
