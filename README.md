@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou a Alice
 
 - Esudante de Análise e Desenvolvimento de Sistemas
 - she/her
