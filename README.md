@@ -1,6 +1,6 @@
 <div align="center">
-    <div style="display:inline_block"> <br>
-    <img align="left" alt="" height="200" src="./src/study.gif">
+    <div style="display:inline_block"><br>
+    <img align="left" alt="" height="250" src="./src/study.gif">
       <h1>Olá! Eu sou a Alice ✰</h1>
       <h2> Estudante de Análise e Desenvolvimento de Sistemas</h2>
       <br>
@@ -17,7 +17,7 @@
   </div>
   <br>
   <br>
-    <div align="center" style="gap:20p">
-    <img src="https://github-readme-stats.vercel.app/api?username=AliceeFig&show_icons=true&theme=radical" width="476px" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceeFig&layout=compact&theme=radical" width="360px" alt="Top Languages">
+    <div>
+    <img weigth= 180em src="https://github-readme-stats.vercel.app/api?username=AliceeFig&show_icons=true&theme=radical" width="476px" alt="GitHub Stats">
+    <img weigth= 200em align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceeFig&layout=compact&theme=radical" width="350px" alt="Top Languages">
     </div>
