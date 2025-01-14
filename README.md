@@ -6,8 +6,6 @@
       <h4>- Estudante de Análise e Desenvolvimento de Sistemas</h3>
       <h4>- she/her</h4>
       <br>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
-        <img width="8" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
         <img width="8" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
