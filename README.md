@@ -1,5 +1,5 @@
 <div align="center">
-    <div style="display:inline_block"><br>
+    <div style="display:inline_block">
     <img align="left" alt="" height="200" src="./src/study.gif">
       <h2> Olá! Eu sou a Alice ✰</h2>
       <h3> Estudante de Análise e Desenvolvimento de Sistemas</h3>
