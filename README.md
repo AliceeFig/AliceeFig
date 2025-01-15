@@ -1,7 +1,7 @@
 <div align="center">
     <div style="display:inline_block"><br>
     <img align="left" alt="" height="200" src="./src/study.gif">
-      <h2>Olá! Eu sou a Alice ✰</h2>
+      <h2> Olá! Eu sou a Alice ✰</h2>
       <h3> Estudante de Análise e Desenvolvimento de Sistemas</h3>
       <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" alt="html5 logo" />
