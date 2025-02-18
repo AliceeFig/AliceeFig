@@ -4,6 +4,7 @@
     <img align="right" alt="" height="200" src="./src/study.gif">
       <h3 align="left"> Estudante de Análise e Desenvolvimento de Sistemas</h3>
       <h3 align="left">Meus objetivos são me tornar uma desenvolvedora front-end e aprender mais sobre design e desenvolvimento de jogos</h3>
+      <h3 align="left">Atualmente estudando HTML, CSS e JavaScript</h3>
       <br>
         <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" alt="html5 logo" />
         <img width="8" />
