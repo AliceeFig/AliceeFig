@@ -43,8 +43,8 @@
   <br>
 <hr>
 <div>
-    <h3>Contatos</h3>
-    <p align="center">
+    <h3>Conecte-se comigo</h3>
+    <p align="left">
       <a href="https://www.linkedin.com/in/alicefigueira004/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
