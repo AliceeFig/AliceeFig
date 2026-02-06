@@ -59,8 +59,6 @@
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliceeFig&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliceeFig&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AliceeFig&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliceeFig&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliceeFig&theme=jolly)
 </div>
 <hr>
