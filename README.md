@@ -53,6 +53,7 @@
       </a>
     </p>
 </div>
+<hr>
 <div align="center">
 <h3 align="left">Github statistics</h3>
     
@@ -62,7 +63,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliceeFig&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AliceeFig&theme=jolly)
 </div>
-
+<hr>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliceeFig/AliceeFig/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliceeFig/AliceFig/output/github-contribution-grid-snake-dark.svg">
