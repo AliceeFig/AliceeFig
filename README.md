@@ -119,21 +119,19 @@
 
 ### Github statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AliceeFig&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-    align="left" 
-    alt="GitHub TopLangs" 
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceeFig&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="left">
+    <img 
+        alt="GitHub TopLangs" 
+        height="200"
+        style="padding-left: 20px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceeFig&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+     <img 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 20px;"
+        src="https://github-readme-stats.vercel.app/api?username=AliceeFig&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br" 
+      />
 </p>
 
 <br/>
